@@ -1,4 +1,4 @@
-#!/bin/sh
+Ikiido#!/bin/sh
 #///////////////////////////////////////////////////////////////////////////////
 #///////////////////////////////////////////////////////////////////////////////
 #////                       _            _  __                              ////
@@ -18,7 +18,7 @@ HIJAU='\033[5;49;92m'
 
 echo $HIJAU"Selamat datang kak, Siapa nick kaka?" #tulisan keluar
 
-read nick #membaca yang ditulis
+read nick #r.i.d
 echo "$MERAH=================================================$N"
 echo "$MERAH== $HIJAU╦ ╦┌─┐┌─┐┬┌─┌─┐┬─┐  ┬┌┐┌┌┬┐┌─┐┌┐┌┌─┐┌─┐┬┌─┐ $MERAH=="
 echo "$MERAH== $HIJAU╠═╣├─┤│  ├┴┐├┤ ├┬┘  ││││ │││ ││││├┤ └─┐│├─┤ $MERAH=="
@@ -31,8 +31,8 @@ echo $HIJAU"Silahkan masukan username Instagram target"
 
 
 
-echo $HIJAU"contoh hack.id_"
-read target # masukin user instagram
+echo $HIJAU"https://instagram.com/yuullddrp2019?igshid=lrcge14hfrlm
+read target # masukin user instagram“
 
 echo
 echo $HUJAU"Apakah username $target sudah benar?"
